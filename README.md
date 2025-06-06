@@ -1,2 +1,1 @@
-# mcp-test
-A test repository for MCP
+this is a test
